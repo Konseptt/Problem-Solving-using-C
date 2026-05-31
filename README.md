@@ -5,7 +5,7 @@ Welcome to my C practice repository. This project collects beginner friendly C p
 ## Repository details to set on GitHub
 
 **Description**
-Short description of this repository
+A collection of beginner C programs for practicing core problem solving and programming fundamentals.
 
 **Website**
 https://syllabuscal.ranjansharma.info.np
